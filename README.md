@@ -1,9 +1,9 @@
 # Acerca de Mi
 **Ingeniera en Bioprocesos** <br>
 
-Actualmente me encuentro en mi camino
-a ser programadora (Data Scientist),
-por lo que he invertido mucho de mi tiempo
+Actualmente me encuentro en mi camino <br>
+a ser programadora (Data Scientist), <br>
+por lo que he invertido mucho de mi tiempo <br>
 en aprender a programar y estudiar conceptos teóricos.
 
 ## Información de Contacto
