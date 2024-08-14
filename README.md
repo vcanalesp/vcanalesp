@@ -1,10 +1,8 @@
-# Acerca de Mi
-**Ingeniera en Bioprocesos** <br>
+# Acerca de Mí
 
-Actualmente me encuentro en mi camino <br>
-a ser programadora (Data Scientist), <br>
-por lo que he invertido mucho de mi tiempo <br>
-en aprender a programar y estudiar conceptos teóricos.
+**Ingeniera en Bioprocesos**
+
+Actualmente estoy en proceso de convertirme en programadora (Data Scientist). He dedicado gran parte de mi tiempo a aprender programación y a estudiar conceptos teóricos para alcanzar esta meta.
 
 ## Información de Contacto
 
