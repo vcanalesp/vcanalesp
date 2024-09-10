@@ -1,22 +1,31 @@
 # Acerca de Mí
 
-**Ingeniera en Bioprocesos**
+* **Profesión**: 📊 Ingeniera en Bioprocesos
+* **Trabajo actual**: 
+    * 💻 Asistente Programadora (Independiente)
+    * 🗨️ Charlista (DUOC UC)
 
-Actualmente estoy en proceso de convertirme en programadora (Data Scientist). He dedicado gran parte de mi tiempo a aprender programación y a estudiar conceptos teóricos para alcanzar esta meta.
+### Intereses
 
-## Información de Contacto
+💪 Deporte | 🍰 Pastelería | 🐶 Perritos
 
-<a href="https://github.com/vcanalesp"><img alt="Link" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" style="float:left; padding-right:10px " width="60" height="50" ></a>
-<a href="https://gitlab.com/vcanalesp"><img alt="Link" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" style="float:left; padding-right:10px " width="60" height="50" ></a>
-<a href="https://www.linkedin.com/in/vcanalesp/"><img alt="Link" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
-<a href="https://vcanalesp.github.io/portafolio/"><img alt="Link" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-globe-icon-svg-wikimedia-commons-21.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
-&nbsp;
-&nbsp;
+☑️ Educación  <br>
+☑️ Visualización  <br>
+☑️ Machine Learning <br> 
+☑️ Inteligencia Artificial  
 
-- **Name**: Valeska Canales Pozo
-- **Phone**: +56 9 8459 5078
+### Contact Information
+
+<p align="left"> 
+<a href="https://www.github.com/vcanalesp" target="_blank" rel="noreferrer"><img src="../../images/about_me/gh.png" width="42" height="42" /></a>
+<a href="https://gitlab.com/vcanalesp" target="_blank" rel="noreferrer"><img src="../../images/about_me/gitlab.png" width="42" height="42" /></a>
+<a href="https://www.linkedin.com/in/vcanalesp" target="_blank" rel="noreferrer"><img src="../../images/about_me/in.png" width="42" height="42" /></a> 
+</p>
+
+
 - **Email**: valeska.canales.p@gmail.com
-- **Curriculum Vitae**: [link](https://gitlab.com/vcanalesp/cv/-/jobs/3113035840/artifacts/file/cv_espanol.pdf)
+- **Sitios web**: [Portfolio](https://vcanalesp.github.io/portfolio/)
+- **Curriculum Vitae**: [link](https://gitlab.com/vcanalesp/cv)
 
 
 
